@@ -1,7 +1,6 @@
-**  NVG Store Annual Sales Dashboard --- Excel **
+NVG Store Annual Sales Dashboard --- Excel
 
- 
- ## Project Overview
+## Project Overview
 This project is an interactive sales analysis dashboard created entirely in Microsoft Excel for NVG Store
 The dashboard provides a consolidated view of the store's 2022 sales and order performance and allows users to explore the data using interactive filters such as Month, Category, and Channel.
 The project demonstrates practical Excel skills that are useful for a Data Analyst role, including dashboard design, data summarization, chart creation, slicers, and business-focused analysis.
@@ -35,7 +34,6 @@ e. Maharashtra and Karnataka appear among the strongest states in the Top 5 stat
 f. Sales are distributed across multiple online sales channels.
 g. These observations are based on the displayed dashboard and can be explored further using the slicers.
 
-File links:-
 
 
 
